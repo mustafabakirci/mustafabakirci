@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Ovinot](http://app.ovinot.com/)
 
-- 🌱 I’m currently learning **vue.js**
-
 - 👨‍💻 All of my projects are available at [http://mybakirci.com/](http://mybakirci.com/)
 
-- 💬 Ask me about **css3, vanillajs**
+- 💬 Ask me about **css3, vanillajs, vue.js**
 
 - 📫 How to reach me **mustafabakircii@gmail.com**
 
