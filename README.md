@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafabakirci&label=Profile%20views&color=0e75b6&style=flat" alt="mustafabakirci" /> </p>
 
-- 🔭 I’m currently working on [Ovinot](http://app.ovinot.com/)
+- 🔭 I’m currently working on [Ticimax](https://www.ticimax.com/)
 
 - 👨‍💻 All of my projects are available at [http://mybakirci.com/](http://mybakirci.com/)
 
 - 📫 How to reach me **mustafabakircii@gmail.com**
 
-- 📄 Know about my experiences [CV](http://mybakirci.com/media/17906/mustafa-yusuf-bak%C4%B1rc%C4%B1-front-end-developer.pdf)
+- 📄 Know about my experiences [CV](http://mybakirci.com/mustafa-yusuf-bakirci.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
