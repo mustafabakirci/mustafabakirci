@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Ticimax](https://www.ticimax.com/)
 
-- 👨‍💻 All of my projects are available at [http://mybakirci.com/](http://mybakirci.com/)
-
 - 📫 How to reach me **mustafabakircii@gmail.com**
 
-- 📄 Know about my experiences [CV](http://mybakirci.com/mustafa-yusuf-bakirci.pdf)
+- 📄 Know about my experiences [CV](http://mustafabakirci.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
